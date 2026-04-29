@@ -1,0 +1,1 @@
+In this file have the all type of asp.net to ado dot.net connections in visual studio
